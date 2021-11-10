@@ -1,7 +1,7 @@
 import os
 import time
 
-device_id = "76d172ee"
+device_id = "7d237c630521"
 num = 0
 click_type = "video"
 while True:
